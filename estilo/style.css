@@ -1,0 +1,30 @@
+body {
+    background: rgb(235, 136, 152);
+    font: normal 13pt DejaVu Sans Mono, monospace;
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    color: black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.384);
+
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
+
+input#txtano {
+    width: 80px;
+}
+
